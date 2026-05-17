@@ -5,6 +5,7 @@ A Python-based IP analysis and visualization tool designed for **educational and
 It provides geolocation insights, network metadata, and interactive map exports from publicly available IP data.
 
 ---
+![IP image](Ip.png)
 
 ## ⚠️ Disclaimer
 
